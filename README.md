@@ -19,7 +19,7 @@ A simple Python Integrated Development Environment (IDE) built using `tkinter` a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/python-ide.git
+   git clone https://github.com/ArgentiCityZenx/python-ide.git
    ```
 
 2. Navigate to the project directory:
