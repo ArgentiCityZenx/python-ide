@@ -1,6 +1,3 @@
-Claro, aquí tienes un ejemplo de un archivo `README.md` para tu proyecto de IDE en Python usando `tkinter` y `customtkinter`.
-
-```markdown
 # Python IDE
 
 A simple Python Integrated Development Environment (IDE) built using `tkinter` and `customtkinter`. This IDE features syntax highlighting, a console for output, and basic functionality to open and run Python scripts.
